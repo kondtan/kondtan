@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="./img/about-cover.png">
+<!-- <img src="./img/about-cover.png"> -->
 <!--
 **kondtan/kondtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
-<img src="./img/about-cover.png">
+<img src="./img/about-cover.png width="900" height="200">
 
-Here are my study projects:  
+Here are my study projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20">:  
   <a href="https://kondtan.github.io/super-gym/">Сайт-визитка для фитнес-центра Super Gym</a>  
   <a href="https://kondtan.github.io/smart-device/">Сайт-визитка для магазина электроники Smart Device</a>
 

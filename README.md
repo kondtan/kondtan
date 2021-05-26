@@ -1,6 +1,6 @@
 <img src="./img/about-cover.png">
 
-Here are my study projects:
+Here are my study projects:  
   <a href="https://kondtan.github.io/super-gym/">Сайт-визитка для фитнес-центра Super Gym</a>  
   <a href="https://kondtan.github.io/smart-device/">Сайт-визитка для магазина электроники Smart Device</a>
 

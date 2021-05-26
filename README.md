@@ -1,5 +1,7 @@
 <img src="./img/about-cover.png">
 
+<a href="https://kondtan.github.io/super-gym/">Сайт-визитка для фитнес-центра Super Gym</a>
+
 <!-- **kondtan/kondtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started:

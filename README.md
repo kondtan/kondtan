@@ -1,6 +1,8 @@
-### Hi there 👋
+<img src="./img/about-cover.png" width="900" height="200">
 
-<img src="./img/about-cover.png">
+Here are my study projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="20">:  
+  <a href="https://kondtan.github.io/super-gym/">Сайт-визитка для фитнес-центра Super Gym</a>  
+  <a href="https://kondtan.github.io/smart-device/">Сайт-визитка для магазина электроники Smart Device</a>
 
 <!-- **kondtan/kondtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
